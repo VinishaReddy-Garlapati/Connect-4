@@ -1,1 +1,2 @@
 # Connect-4
+A classic Connect 4 game implemented with HTML, CSS, and JavaScript. This project recreates the popular two-player game where players take turns dropping discs into a grid, aiming to connect four of their own discs in a row horizontally, vertically, or diagonally. Featuring an interactive interface and real-time win detection, this project showcases JavaScript logic and DOM manipulation to create a fun and engaging user experience.
